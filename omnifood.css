@@ -621,7 +621,7 @@ strong {
       rgba(235, 151, 78, 0.35),
       rgba(230, 125, 34, 0.35)
     ),
-    url(../content/img/eating.jpg);
+    url("./Assets/eating.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -692,6 +692,11 @@ strong {
   font-size: 1.2rem;
   line-height: 1.6;
   color: #767676;
+}
+.designed a {
+  text-decoration: none;
+  color: #767676;
+  font-weight: 500;
 }
 .footer-heading {
   font-size: 1.8rem;
